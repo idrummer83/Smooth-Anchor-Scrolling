@@ -1,5 +1,3 @@
-# Smooth Anchor Scrolling
-
 ## Info
 
 I have written the **Smooth Anchor Scrolling** to improve the weight of your callbacks. I was using Twitter's [Bootstrap 3.0](http://getbootstrap.com/) when i wrote this and i'm surprised they haven't yet built anything in. Alas! I have written a *super lightweight smooth scroll plugin* free for you all to use. I have deliberately not included a plugin such as Scrollspy as i built this for use with [Bootstrap](http://getbootstrap.com/) that already has Scrollspy within.
