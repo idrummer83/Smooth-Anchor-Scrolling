@@ -2,9 +2,7 @@
 
 ## Info
 
-I have written the Smooth Anchor Scrolling to improve the weight of your callbacks. I was using Twitter's Bootstrap 3.0 when i wrote this and i'm surprised they haven't yet built anything in. Alas! I have written a super lightweight smooth scroll plugin free for you all to use. I have deliberately not included a plugin such as Scrollspy as i built this for use with Bootstrap that already has Scrollspy within.
-
-Go to Section 4
+I have written the **Smooth Anchor Scrolling** to improve the weight of your callbacks. I was using Twitter's [Bootstrap 3.0](http://getbootstrap.com/) when i wrote this and i'm surprised they haven't yet built anything in. Alas! I have written a *super lightweight smooth scroll plugin* free for you all to use. I have deliberately not included a plugin such as Scrollspy as i built this for use with [Bootstrap](http://getbootstrap.com/) that already has Scrollspy within.
 
 ## Compatibility
 
@@ -22,7 +20,7 @@ I have also tested this on current mobile operating systems:
 * BB OS10 Software
 
 
-Despite not being tested in previous versions of Internet Explorer i have full-faith that it will work back to IE7 and it's predecessor as it's leveraging jQuery functions such as .animate, .closest and others. See the Editor view for full code.
+Despite not being tested in previous versions of Internet Explorer i have full-faith that it will work back to IE7 and it's predecessor as it's leveraging jQuery functions such as `.animate`, `.closest` and others.
 
 ## Demo
 
@@ -32,6 +30,6 @@ This repository was built using [CodePen](http://codepen.io/) and can be found [
 
 ## Credits
 
-This script was written by Matt Litherland @mattsince87 and is intended for public use. please do not sell this script as an individual product. It may be included in your projects that are sold as an entire website or application.
+This script was written by Matt Litherland and is intended for public use. please do not sell this script as an individual product. It may be included in your projects that are sold as an entire website or application.
 
-If you like it then follow me on Codepen @mattsince87 and Twitter @mattsince87
+If you like it then follow me on Codepen [@mattsince87](http://codepen.io/mattsince87) and Twitter [@mattsince87](http://twitter.com/mattsince87).
