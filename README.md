@@ -24,7 +24,7 @@ Despite not being tested in previous versions of Internet Explorer i have full-f
 
 This repository was built using [CodePen](http://codepen.io/) and can be found [here](http://codepen.io/mattsince87/details/exByn).
 
-
+![Smooth Anchor Scrolling](http://f.cl.ly/items/1Q1P3F1j2A3H0y3I3E0L/Screen-Shot-2013-11-22-at-12.12.40.png)
 
 ## Credits
 
